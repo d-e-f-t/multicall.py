@@ -109,6 +109,7 @@ MULTICALL2_ADDRESSES: Dict[int,str] = {
     Network.Optimism: '0x2DC0E2aa608532Da689e89e237dF582B783E552C',
     Network.OptimismKovan: '0x2DC0E2aa608532Da689e89e237dF582B783E552C',
     Network.Kava: '0x45be772faE4a9F31401dfF4738E5DC7DD439aC0b',
+    7701: '0xcFAe4715a2DC8C47c6b18B85a87F5c4b33B0b11f',
 }
 
 # based on https://github.com/mds1/multicall#readme
